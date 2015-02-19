@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/pre-dexed/debug/classes-2f986e4b8bc7f547011fa6bdb1b0e6c30dc15e32.jar" />
+    </item>
+    <item
+        jar="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/pre-dexed/debug/classes-12dd59e54cf68f7ada91f2e43019cf9f1aad3d5b.jar" />
+    </item>
+    <item
+        jar="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/libs/bugsense-3.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3928cf9ff54683b522cee09da9034106c53fea91">
+        <dex dex="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/pre-dexed/debug/bugsense-3.6-15cbb262b30a07bd42219e830c87b6cd25963b87.jar" />
+    </item>
+    <item
+        jar="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a75b29dc51b364df032af8bcfcad7e54ccfda28d">
+        <dex dex="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/pre-dexed/debug/classes-b2ee2f6d8a08a4d750c4d50946dc59463bd13a36.jar" />
+    </item>
+    <item
+        jar="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/libs/mail.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e880497affe331a8fae02c84c701fddde8954f18">
+        <dex dex="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/pre-dexed/debug/mail-1eccbc27b0e2d66dc2be6b9d8aa6cc7120a369b5.jar" />
+    </item>
+    <item
+        jar="/Users/ismailkocatas/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.3.2/90a3822c38ec8c996e84c16a3477ef632cbc87a3/commons-lang3-3.3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/pre-dexed/debug/commons-lang3-3.3.2-c0c03e79891c1f85bb1d156e925cfa9505f24c14.jar" />
+    </item>
+    <item
+        jar="/Users/ismailkocatas/Documents/sdk android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-675dbe46354b5e205820c618c82a50110200bd3e.jar" />
+    </item>
+    <item
+        jar="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/pre-dexed/debug/classes-6e1ab86ccaa195ea5d06aff1b24b72d7c90a4ebe.jar" />
+    </item>
+    <item
+        jar="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/libs/activation.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8acf42612ad530a4fbf4058982555394298b4ed8">
+        <dex dex="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/pre-dexed/debug/activation-39d14fb8db11764b0a7654debfb3acec0b9f81ae.jar" />
+    </item>
+    <item
+        jar="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/pre-dexed/debug/classes-8d24f6c3e7b93bf051760672032bfb904f7d8107.jar" />
+    </item>
+    <item
+        jar="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/libs/additionnal.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/pre-dexed/debug/additionnal-8e72f1d977638715d1cd6ceef3482dc6cc53e185.jar" />
+    </item>
+    <item
+        jar="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4a568f733067f786d53e191ccf998e7ea3da68cc">
+        <dex dex="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/pre-dexed/debug/classes-afb89894548eb613ca5d376de71dfc55cf3b5061.jar" />
+    </item>
+    <item
+        jar="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/libs/joda-time-2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="56498efd17752898cfcc3868c1b6211a07b12b8f">
+        <dex dex="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/pre-dexed/debug/joda-time-2.3-fcf09ee4a6bcf3228f4c00115e00d2fc60e87856.jar" />
+    </item>
+    <item
+        jar="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-935caa6cd4847165836aa83d1bac8082a074515f.jar" />
+    </item>
+    <item
+        jar="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/libs/jsoup-1.7.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ab1f22cadc2f8b514e55ba368f5128056fe304da">
+        <dex dex="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/pre-dexed/debug/jsoup-1.7.3-995101d0a29f5e2f08655c15108e33e50f65f049.jar" />
+    </item>
+    <item
+        jar="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="/Users/ismailkocatas/Documents/licence_teprow/Projet_appli/ApplicationIUT/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-00cf142a35e7078127b63f83aef6894d7d4d9205.jar" />
+    </item>
+
+</items>
